@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yoshihide Yamato"
+locale                   : "jp"
+title                    : "大和 義英"
 title_separator          : "-"
-name                     : &name "Yoshihide Yamato"
+name                     : &name "大和 義英"
 description              : &description "personal description"
-url                      : https://yyamato-as.github.io/website_en # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yyamato-as.github.io/website_jp # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yyamato-as/website_en"
+repository               : "yyamato-as/website_jp"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoshihide Yamato"
+  name             : "大和 義英"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student of Astronomy at the University of Tokyo"
-  location         : "Tokyo, Japan"
-  employer         : "Department of Astronomy, <br> Graduate School of Science, <br> the University of Tokyo"
+  bio              : "東京大学大学院理学系研究科天文学専攻 修士課程2年"
+  location         : ""
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yyamato.as@gmail.com"
@@ -244,10 +244,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _jp
+  # _en
   - scope:
       path: ""
-      type: jp
+      type: en
     values:
       layout: single
       author_profile: true
