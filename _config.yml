@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "jp"
-title                    : "大和 義英"
+title                    : "Yoshihide Yamato"
 title_separator          : "-"
 name                     : &name "大和 義英"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "大和 義英"
+  name             : "大和 義英 (やまと よしひで)"
   avatar           : "profile.png"
-  bio              : "東京大学大学院理学系研究科天文学専攻 修士課程2年"
+  bio              : "東京大学大学院理学系研究科<br>天文学専攻 修士課程2年"
   location         : ""
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
