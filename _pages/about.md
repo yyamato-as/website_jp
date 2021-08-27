@@ -18,7 +18,7 @@ redirect_from:
 ### プロジェクト
 - Molecules with ALMA at Planet-forming Scales (MAPS) - The Chemistry of Planet Formation (ALMA Cycle 6 Large Program)
 - Early Planet Formation in Embedded Disks (eDisk; ALMA Cycle 7 Large Program)
-- Deuterium fractionation of ammonia in the protostellar cores
+- Deuterium fractionation of ammonia in protostellar cores
 
 ## ニュース
 - 2021.8.13 ALMA Cycle 8 2021 の観測プロポーザルがグレードBで採択されました。
