@@ -1,12 +1,12 @@
 ---
 permalink: /jp/
-title: "Japanese"
+title: ""
 author_profile: true
 redirect_from:
   - /md/
   - /jp.html
 ---
 
-pppp
+日本語ウェブサイトは[こちら。](https://yyamato-as.github.io/website_jp/)
 
 
