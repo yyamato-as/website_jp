@@ -1,11 +1,12 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+permalink: /jp/
+title: "Japanese"
 author_profile: true
-redirect_from: 
-  - /jp/
+redirect_from:
+  - /md/
   - /jp.html
 ---
 
-日本語ウェブサイトは[こちら。](https://yyamato-as.github.io/website_jp/)
+pppp
+
+
