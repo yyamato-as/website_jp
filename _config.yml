@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Student of Astronomy at the University of Tokyo"
   location         : "Tokyo, Japan"
-  employer         : "Department of Astronomy, Graduate School of Science, the University of Tokyo"
+  employer         : "Department of Astronomy, <br> Graduate School of Science, <br> the University of Tokyo"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yyamato.as@gmail.com"
