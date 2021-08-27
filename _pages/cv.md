@@ -7,10 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<!-- <link href="./cv_style.css" rel="stylesheet"></link> -->
+
 {% include base_path %}
 
 # 学歴
-<span style="font-size: 85%; color: grey;">2013年4月 - 2016年3月</span>&nbsp;&nbsp;&nbsp;&nbsp;福井県立藤島高等学校<br>
+<span style="font-size: 85%; color: grey; display:inline-block; width:25em;">2013年4月 - 2016年3月</span>&nbsp;&nbsp;&nbsp;&nbsp;福井県立藤島高等学校<br>
 <span style="font-size: 85%; color: grey;">2016年4月 - 2018年3月</span>&nbsp;&nbsp;&nbsp;&nbsp;東京大学教養学部理科二類<br>
 <span style="font-size: 85%; color: grey;">2018年4月 - 2020年3月</span>&nbsp;&nbsp;&nbsp;&nbsp;東京大学理学部天文学科 - 学士 (卒業研究： 原始惑星系円盤MWC 480におけるN<sub>2</sub>D<sup>+</sup>, N<sub>2</sub>H<sup>+</sup>輝線観測データの解析)<br>
 <span style="font-size: 85%; color: grey;">2020年4月 - 現在</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;東京大学大学院理学系研究科天文学専攻 修士課程<br>
