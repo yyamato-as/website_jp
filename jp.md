@@ -2,6 +2,7 @@
 permalink: /jp/
 author_profile: true
 redirect_from: 
+  - /md/
   - /jp.html
 ---
 
