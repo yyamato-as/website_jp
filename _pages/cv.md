@@ -9,34 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<font color="Grey">2016年4月 - 2018年3月</font> 東京大学教養学部理科二類
+<br>
+<font color="Grey">2018年4月 - 2020年3月</font> 東京大学理学部天文学科 - 学士 (卒業研究： 原始惑星系円盤MWC 480におけるN<sub>2</sub>D<sup>+</sup>, N<sub>2</sub>H<sup>+</sup>輝線観測データの解析) 
+<br>
+<font color="Grey">2020年4月 - 現在     </font> 東京大学大学院理学系研究科天文学専攻 修士課程 
+<br>
 
-Work experience
+職歴
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<font color="Grey">2020年10月 - 現在    </font> 宇宙地球フロンティア国際卓越大学院プログラム (IGPEES) リサーチ・アシスタント 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

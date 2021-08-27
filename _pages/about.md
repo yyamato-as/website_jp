@@ -15,7 +15,7 @@ redirect_from:
 
 ミリ波・サブミリ波の電波干渉計による高空間分解能観測を駆使して、星や惑星が形成される過程における物理進化・物質進化を明らかにすべく研究を行っています。
 
-## プロジェクト
+### プロジェクト
 - Molecules with ALMA at Planet-forming Scales (MAPS) - The Chemistry of Planet Formation (ALMA Cycle 6 Large Program)
 - Early Planet Formation in Embedded Disks (eDisk; ALMA Cycle 7 Large Program)
 - Deuterium fractionation of ammonia in the protostellar cores
