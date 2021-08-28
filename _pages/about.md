@@ -23,7 +23,7 @@ redirect_from:
 ## 最近のニュース
 
 {% include base_path %}
-{% with postSlice=":3" %}
+{% with  postSlice=":3" %}
   {% for post in site.posts|slice:postSlice %}
     {% if post.id %}
       {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
