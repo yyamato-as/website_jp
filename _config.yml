@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: news
+      type: posts
     values:
       layout: single
       author_profile: true
