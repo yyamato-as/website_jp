@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /category-archive/
+    url: /news/
 
   - title: "Research"
     url: /research/
