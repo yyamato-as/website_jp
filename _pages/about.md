@@ -35,3 +35,5 @@ redirect_from:
   </div>
 {% endfor %}
 
+[More](https://yyamato-as.github.io/website_jp/news/)
+
