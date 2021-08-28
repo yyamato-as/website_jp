@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /year-archive/
+    url: /collection-archive/
 
   - title: "Research"
     url: /research/
