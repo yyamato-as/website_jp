@@ -20,6 +20,19 @@ redirect_from:
 - Early Planet Formation in Embedded Disks (eDisk; ALMA Cycle 7 Large Program)
 - Deuterium fractionation of ammonia in protostellar cores
 
-## ニュース
+## 最近のニュース
+
+{% include base_path %}
+{% for post in site.posts %}
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+    </article>
+  </div>
+{% endfor %}
+
+
 - 2021.8.13 ALMA Cycle 8 2021 の観測プロポーザルがグレードBで採択されました。
 
