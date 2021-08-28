@@ -35,5 +35,5 @@ redirect_from:
   </div>
 {% endfor %}
 
-<p style="text-align:right", href="https://yyamato-as.github.io/website_jp/news/">More</p>
+<a style="text-align:right" href="https://yyamato-as.github.io/website_jp/news/">More</a>
 
