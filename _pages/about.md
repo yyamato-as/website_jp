@@ -30,11 +30,11 @@ redirect_from:
     {% assign title = post.title %}
   {% endif %}
   <div class="list__item">
-    {% if post.link %}
+    <!-- {% if post.link %}
       <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-    {% else %}
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-    {% endif %}
+    {% else %} -->
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    <!-- {% endif %} -->
   </div>
 {% endfor %}
 
