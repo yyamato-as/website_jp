@@ -30,11 +30,7 @@ redirect_from:
     {% assign title = post.title %}
   {% endif %}
   <div class="list__item">
-    <!-- {% if post.link %}
-      <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-    {% else %} -->
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-    <!-- {% endif %} -->
+    <span style="font-size: 85%; color: grey; display:inline-block; width:8em;"><p class="page__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y.%m.%d" }}</time></p></span> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
   </div>
 {% endfor %}
 
