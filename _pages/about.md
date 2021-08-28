@@ -20,7 +20,7 @@ redirect_from:
 - Early Planet Formation in Embedded Disks (eDisk; ALMA Cycle 7 Large Program)
 - Deuterium fractionation of ammonia in protostellar cores
 
-## 近況
+## 最近のニュース
 
 {% include base_path %}
 {% assign recent_posts = site.posts | slice:0, 3 %}
