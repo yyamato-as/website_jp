@@ -23,16 +23,14 @@ redirect_from:
 ## 最近のニュース
 
 {% include base_path %}
-{% with  postSlice=":3" %}
-  {% for post in site.posts|slice:postSlice %}
-    {% if post.id %}
-      {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-    {% else %}
-      {% assign title = post.title %}
-    {% endif %}
-    <div class="list__item">
-      <span style="font-size: 85%; color: grey; display:inline-block; width:8em;"><p class="page__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-02" | date: "%Y.%m.%d" }}</time></p></span> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-    </div>
-  {% endfor %}
-{% endwith %}
+{% for post in site.posts|slice:':3' %}
+  {% if post.id %}
+    {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% else %}
+    {% assign title = post.title %}
+  {% endif %}
+  <div class="list__item">
+    <span style="font-size: 85%; color: grey; display:inline-block; width:8em;"><p class="page__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-02" | date: "%Y.%m.%d" }}</time></p></span> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+  </div>
+{% endfor %}
 
