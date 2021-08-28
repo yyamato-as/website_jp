@@ -1,6 +1,6 @@
 ---
 title: 'ALMA Cycle 8 2021 の観測提案が採択されました。'
-date: 2021-08-13
+date: 2021-08-07
 permalink: /news/2021-08-13-1/
 read_time: false
 tags:
