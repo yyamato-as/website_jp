@@ -278,15 +278,15 @@ en: &DEFAULT_JP
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
-  share_on_label             : "Share on"
+  share_on_label             :
   meta_label                 :
-  tags_label                 : "Tags:"
-  categories_label           : "Categories:"
+  tags_label                 : "タグ："
+  categories_label           : "カテゴリ："
   date_label                 : 
-  comments_label             : "Leave a Comment"
-  comments_title             : "Comments"
-  more_label                 : "Learn More"
-  related_label              : "You May Also Enjoy"
+  comments_label             : "コメントする"
+  comments_title             : "コメント"
+  more_label                 : "もっと見る"
+  related_label              : "関連記事"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
