@@ -20,7 +20,7 @@ redirect_from:
 - Early Planet Formation in Embedded Disks (eDisk; ALMA Cycle 7 Large Program)
 - Deuterium fractionation of ammonia in protostellar cores
 
-<h2 style="text-align:left">近況<p style="text-align:right">more</p></h2>
+## 近況
 
 {% include base_path %}
 {% assign recent_posts = site.posts | slice:0, 3 %}
@@ -35,5 +35,5 @@ redirect_from:
   </div>
 {% endfor %}
 
-[More](https://yyamato-as.github.io/website_jp/news/)
+<p style="text-align:right", href="https://yyamato-as.github.io/website_jp/news/">More</p>
 
