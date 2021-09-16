@@ -9,7 +9,7 @@ tags:
   - MAPS
 ---
 
-アルマ望遠鏡の観測サイクル6で実行された大型観測計画 Molecules with ALMA at Planet-forming Scales (MAPS) の結果が日本時間本日22時に公式に[リリース](https://alma-telescope.jp/news/press/maps-202109)されました！このプロジェクトは、5つの原始惑星系円盤について40本以上の分子輝線を高解像度で観測することで、惑星形成領域における化学を詳細に解き明かすことを目的としています。
+アルマ望遠鏡の観測サイクル6で実行された大型観測計画 Molecules with ALMA at Planet-forming Scales (MAPS) の結果が日本時間本日22時に公式に[リリース](https://alma-telescope.jp/news/press/maps-202109)されました！このプロジェクトでは、5つの原始惑星系円盤について40本以上の分子輝線を高解像度で観測することで、惑星形成領域における化学を詳細に解き明かすことに成功しました。
 
 結果は全20編の論文にまとめられ、本日の arXiv (astro-ph) の新着論文として投稿されています。
 
@@ -20,6 +20,7 @@ tags:
 
 プレスリリース:
 - [国立天文台（NAOJ）](https://alma-telescope.jp/news/press/maps-202109)
+- [NRAO](https://public.nrao.edu/news/alma-reveals-carbon-rich-organic-birth-environments-of-planets/)
 
 ウェブサイト:
 - [MAPS website](http://alma-maps.info/)
